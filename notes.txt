@@ -1,0 +1,41 @@
+how to start command line:
+press window key + r
+type cmd and hit enter
+
+how to list files in a directory:
+dir
+
+how to change directory:
+cd directory_path
+example: 
+cd C:\projects\hello-world
+
+how to run program:
+
+node file_name
+example:
+node hello.js
+
+structure of a function:
+
+function add(a, b) {
+    return a+b;
+}
+
+return statement istamal hota he kisi variable ko 
+wapiz kerne ke liye. 
+
+how to save file:
+
+ctrl + s
+
+
+homework:
+
+1. Convert celsius to kelvin.
+2. Convert kelvin to celsius.
+3. Compute max heart rate given age. (research needed. hint: how do you calculate max heart rate of a person?)
+4. kg to pounds (lbs)
+5. pounds (lbs) to kg. 
+6. feet to meters. 
+7. meters to feet.
