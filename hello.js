@@ -52,3 +52,5 @@ bolo(f2c(44));
 
 
 bolo(c2f(45));
+
+bolo("hi");
