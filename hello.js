@@ -170,3 +170,14 @@ function f2m(meeters){
 
 }
 bolo (f2m(2));
+
+
+
+
+
+function mhr(age){
+    var mhr = 220 -age;
+    return mhr;
+
+}
+bolo (mhr(45));
